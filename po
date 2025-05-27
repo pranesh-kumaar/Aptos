@@ -9,12 +9,12 @@ The scar upon his neck, however, is a haunting reminder of what nearly came to p
 I hesitated, unsure how to respond. I said what I had to, "A story that ends with you alive is still better than most."
 "You’ll have your scars one day, Ilyas. We all do. Some you’ll wear with pride, others you’ll hide. Your real lesson lies in knowing which is which.”
 I couldn’t stop myself from asking, "And this one? Which is it for you?" 
-“This one will fade soon.” he replied. I understood what he meant. The scar wasn’t a mark he intended to carry for long, not because it would heal, but because he would make sure its story ended. This scar, to him, was unfinished business. The wound has healed, but its warning will remain.
+“This one will fade soon.” he replied. The scar wasn’t a mark he intended to carry for long, not because it would heal, but because he would make sure its story ended. This scar, to him, was unfinished business. The wound has healed, but its warning will remain.
 The ambush was as brutal as it was clever. A caravan of merchants blocked the path with barrels, claiming their cart had toppled. When Vasudev ordered his men to assist, the barrels burst open, hurling jagged metal shards into the air. Horses reared, men cried out in pain, and chaos ensued.
 In the chaos, Lord Vasudev was overpowered, bound, and dragged to the tavern. The brutes responsible—known as Shirvi's Twelve—were as infamous as they were skilled, though no one could mistake them for being clever. They had once terrorized Shirvi, until a benefactor secured their allegiance for a new purpose: capturing the Mudhaliyar brothers.
-“These were the same thugs who once ran amok in Shirvi,” I heard someone mutter, “until someone with too much coin and too little taste decided they were perfect [for the job of] capturing the Mudhaliyar brothers.” — the tents and their murmurs, Oh I would miss them when my Passage is done. 
+“These were the same thugs who once ran amok in Shirvi,” I heard someone mutter, “until someone with too much coin and too little taste decided they were perfect for the job of capturing the Mudhaliyar brothers.” — Oh I would miss these tents and their murmurs, when my Passage is done. 
 Their cunning didn’t come from their own minds but from the resources they were given—trap barrels, precise timing, detailed information about Lord Vasudev’s movements, and a designated place to strike. “Their cunning was borrowed, not bred,” Garu once quipped. Whoever orchestrated this betrayal clearly knew Lord Vasudev’s routines well. It wasn’t just a random attack; it was a carefully laid plan. 
-I am not one to linger outside tents, eavesdropping on arguments better left unheard, but the rising tempers and biting words between the two brothers are impossible to ignore. On that matter Varadharaj was overheard remarking at Vasudev, “What a delightful circle of trust you keep.” For which Vasudev apparently have responded, “We owe that much to your presence, for silencing all loose ends.” A fair jab, I’d say, between brothers.
+I am not one to linger outside tents, eavesdropping on arguments better left unheard, but the rising tempers and biting words between the two brothers are impossible to ignore. On that matter Varadharaj was overheard remarking at Vasudev, “What a delightful circle of trust you keep.” To which Vasudev apparently responded, “We owe that much to your presence, for silencing all loose ends.” — A fair jab, I’d say, between brothers.
 But oh, shall not forget Lord Vasudev’s foresight. He always does. It’s maddening, honestly. He knew there could be trouble—hence why he sent me and Garu off to the Merchant’s Road to await his brother’s arrival. He likely already has a strong suspicion of who orchestrated this. After all, warnings are never given without reason, and Lord Vasudev always plays the long game.
 While my Lord might fume at the indignity of being ensnared in such a trap, our new guest, Varadharaj, has proven to be no less vexing in his own right. Though he carries himself a savior, his sharp tongue and opinions have sparked more than a few quarrels with Lord Vasudev.  Some claim to have heard Varadharaj say, “Couldn’t outwit a barrel”, inside Vasudev’s tent. 
 Tensions rise whenever they visit each other’s tent. Yet, for all his demeanor, Varadharaj did save Lord Vasudev—a fact not lost on the camp, where respect for my Lord remains unwavering. While his brother’s presence is far from welcome. 
@@ -46,20 +46,23 @@ His earlier tries didn’t exactly shine — he lost at dice with the men and in
 Tomorrow, Annaval awaited us, but tonight, we gathered for what could be our last shared meal before the city.
 He told stories—some true, others embellished—to draw laughter from the men. I write this today because I have seen what a single night can do.  For the first time in days, the men seemed lighter, and even Lord Vasudev seemed less distant.
 I did what I could to collect pieces of the stories.
-Attempting to draw his brother in, Varadharaj began, "Do you remember when I broke Amma’s favorite pot?".
+Attempting to draw his brother in, Varadharaj began, "Do you remember when I broke Amma’s pot?".
 Lord Vasudev raised an eyebrow. "Which time?"
 The men chuckled, and Varadharaj grinned. "The one with the blue flowers.”
 “Ah, you tried to pin it on me. Of course, I remember.” 
-“I tried to blame it on your stupid cat ‘Maraal’, not you.” 
-“Stupid? That 'stupid cat' was smarter than you. Maraal would vanish the moment you came near because it knew you were trouble.”
+“I tried to blame it on your mud brained cat ‘Maraal’, not you.” 
+“Mud brained? That ‘mud brained cat' was smarter than you. Maraal would vanish the moment you came near because it knew you were trouble.”
 "Mother was furious, blaming Vasudev for bringing another cat when the yard was already overrun. I remember him saying, ‘Maraal will learn royal manners and not add to the kittens.’ Only problem—it was a he-cat. My Lord Brother thought breeding was a given for all cats."
-The men erupted into laughter, and Vasudev finally cracked a smile. "Better than your 'song' about Vaidehi’s cooking. What was the line? 'A meal so bold, it could make a warrior fold'?"
+The men erupted into laughter, and Vasudev finally cracked a smile. "Certainly not more amusing than your 'song' about Vaidehi’s meals. What was the line? 'A meal so bold, it could make a warrior fold'?"
 The group erupted again, and I couldn’t hold back my laughter either.
-Varadharaj continued, “Oh, how is my sister doing? She didn’t bother to respond to my letter. One time when we were in the Regal Progress around [], there was this noble boy—poor thing—convinced by us that Vaidehi would grant him her favor if he presented her with frogspawn disguised among flowers. We even gave it an absurdly poetic name— ‘pearls of life.’”
+Varadharaj continued, “Oh, how is my sister faring these days?”
+“You might find virtues you never knew you had, in her presence.”, [Vasudev quipped.]
+[She didn’t bother to respond to my letter.] 
+One time when we were in the Regal Progress around [], there was this noble boy—poor thing—convinced by us that Vaidehi would grant him her favor if he presented her with frogspawn disguised among flowers. We even gave it an absurdly poetic name— ‘pearls of life.’”
 “I had no part in it—such mischief was beneath me, of course. But the idea was too ridiculous to resist.”
 “And he actually did it!”, Varadharaj laughed, “One of those lads from the Vaidhiyar family, wasn’t he?” It was easier for him to get those vile things. Vaidehi was absolutely horrified, but far too clever to let him off easily. She convinced the lad, that gifts of such ‘great maternal significance’ were better suited for his mother, not maidens. ‘Go and gift her this,’ she said, and he scampered off, red-faced and mortified.”
 Lord Vasudev, finally at ease, leaned back with a chuckle and continued with another tale. “Boys from noble houses would line up to offer Vaidehi their finest jewelry, hoping to win her favor. Watching them, Varadha decided he wanted to do something equally… noble. So, naturally, he stole our mother’s jewelry to impress a street dancer.”
-"Ah, but she smiled at me, didn’t she? A small price to pay for beauty." 
+["Ah, but she smiled at me, didn’t she? A small price to pay for beauty."]
 "Small price? any other Lord would have snatched the necklace back, and her dignity alike. When the court came to know of it, Father declared it is hers to keep. I still remember his words to the court: ‘My son has found her pleasing. She shall come to court and perform, as the price has already been settled.’” 
 “Of course, while he was gracious with her, he was far less forgiving with me. I was summoned to the court, ‘Do you know what they call someone who does such a thing? A thief. And do you know the punishment for thieves?’
 “Poor Varadha was trembling, hiding behind Vaidehi’s skirt like a pup, clutching her hands and legs for dear life.”
