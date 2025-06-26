@@ -1,0 +1,10 @@
+I am Pranesh. Earlier I was part of private bank Advisor Support with wealth Management where I was able to bring a lot of efficiency to my previous team. 
+I joined this team in April, and Abhishek provided me with an extensive list of automations the team has identified amounting to 7000 plus hours. Among them I have took 1200 hours of automation under my belt. In the three months I have been with the team, I have been able to provide solutions and automations to the team that will save 300 hours annually.
+In the meantime we also worked towards bringing more technology to the team, and that would be bringing LLM to python and providing LLM based python solutions to the team. Opting LLM based solutions over just python solution because even in the future let’s say the template of a pdf changes python would become obsolete and require rebuilding the solution around the new template, but LLM will be smart enough to understand the changes in the template and still provide solution thus future proofing whatever we are building. This will be a whole new direction to the team and though it took us a while to get these accesses it is only going to accelerate the pace we are building solutions.
+
+We got the access just a couple of days ago and the whole team is pumped to use LLM for their business. 
+
+One such remarkable use case will be working with Prithvi’s team on their NDA review process. These documents are reviewed by his team which entirely written in legal language. During the review process, we occasionally need to modify the language used by the counterparty and insert a few JPM clauses. Basically making them follow JPMC standards. 
+
+The approach we are taking is training the LLM on these NDAs and have LLM act as an agent which will identify, advise and guide us while editing these documents.
+
